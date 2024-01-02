@@ -1,0 +1,10 @@
+.textList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  list-style: none;
+}
+
+.text {
+  font-size: 17px;
+}

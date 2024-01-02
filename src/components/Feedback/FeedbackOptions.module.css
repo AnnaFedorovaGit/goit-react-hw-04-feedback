@@ -1,0 +1,22 @@
+.btnList {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
+
+.btn {
+  width: 75px;
+  height: 35px;
+  font-size: 16px;
+  border: 1px solid #878682;
+  border-radius: 4px;
+  background-color: #cbccb7;
+  cursor: pointer;
+}
+
+.btn:hover {
+  font-size: 17px;
+  border: 1px solid #285f32;
+  background-color: #3da04c;
+  color: #d4d4d4;
+}
